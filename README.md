@@ -1,16 +1,37 @@
-## Hi there 👋
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/5456e156-d096-49af-8e09-08c565ebe145" 
+    width="400"
+    style="border-radius: 15px;"
+  />
+</p>
 
-<!--
-**ebula-edu/ebula-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Eldrex</h1>
+<h3 align="center">AIS Student | Vice President of ICS Organization</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🎓 About Me
+- 🏫 School: **Eldrex Delos Reyes Bula**
+- 🎓 Strand: **AIS (Associate in Information Systems)**  
+- 🏛️ Organization: **ICS (Vice President)**
+- 🌱 Currently Learning: Data Structures, Web Development, and UI Systems
+
+---
+
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode" />
+</p>
+
+---
+
+## ✨ Motto
+> “I don’t need what you have to do what you do.”
+
+---
+
+<p align="center">
+  <img src="https://navotaspolytechniccollege.edu.ph/wp-content/themes/yootheme/cache/66/Favicon-66de9ae4.webp" width="80" style="margin-right: 25px; vertical-align: middle;" />
+   <img src="https://eldrex.landecs.org/logo/ics-logo.svg" width="80" style="margin-right: 25px; vertical-align: middle;" />
+</p>
