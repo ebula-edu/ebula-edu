@@ -12,8 +12,9 @@
 
 
 ## 🎓 About Me
-- 🏫 School: **Eldrex Delos Reyes Bula**
-- 🎓 Strand: **AIS (Associate in Information Systems)**  
+- 🙎‍♂️ Name: **Eldrex Delos Reyes Bula**
+- 🏫 School: **Navotas Polytechnic College**
+- 🎓 Course: **AIS (Associate in Information Systems)**  
 - 🏛️ Organization: **ICS (Vice President)**
 - 🌱 Currently Learning: Data Structures, Web Development, and UI Systems
 
