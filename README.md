@@ -15,7 +15,7 @@
 - 🙎‍♂️ Name: **Eldrex Delos Reyes Bula**
 - 🏫 School: **Navotas Polytechnic College**
 - 🎓 Course: **AIS (Associate in Information Systems)**  
-- 🏛️ Organization: **ICS (Vice President)**
+- 🏛️ Organization: **ICS (Integrated Computer Society)**
 - 🌱 Currently Learning: Data Structures, Web Development, and UI Systems
 
 ---
