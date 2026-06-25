@@ -11,6 +11,16 @@ Passionate about technology and leadership, I serve as Vice President of the Int
 
 ---
 
+## School Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| *Student Information Manager* | Because guessing who submitted late activities manually is a full-time job. | HTML, CSS, JavaScript, json |
+| *NPC Smart Library System* | An efficient library management system with a clean, user-centric interface for Navotas Polytechnic College. | Python, tkinter, json |
+
+
+---
+
 ## Technical Skills
 
 <p>
