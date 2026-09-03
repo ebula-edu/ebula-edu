@@ -1,13 +1,12 @@
-![ics-vp](https://github.com/user-attachments/assets/02992071-9d23-4890-bd0b-aa4aba55abb2)
+<img width="2255" height="1271" alt="Eldrex Delos Reyes Bula" src="https://github.com/user-attachments/assets/250278ce-a299-499b-86be-45645b7b65a8" />
 
 ## About Me
 
 **Eldrex Delos Reyes Bula**  
-Vice President, Integrated Computer Society (ICS)  
 Navotas Polytechnic College  
 Associate in Information Systems (AIS)
 
-Passionate about technology and leadership, I serve as Vice President of the Integrated Computer Society, where I help foster a collaborative environment for students pursuing careers in information systems and technology.
+A student passionate about technology and software development, continuously learning and building projects that solve real-world problems.
 
 ---
 
@@ -15,9 +14,8 @@ Passionate about technology and leadership, I serve as Vice President of the Int
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| *Student Information Manager* | Because guessing who submitted late activities manually is a full-time job. | HTML, CSS, JavaScript, json |
-| *NPC Smart Library System* | An efficient library management system with a clean, user-centric interface for Navotas Polytechnic College. | Python, tkinter, json |
-
+| *Student Information Manager* | A tool to track and manage student submissions and activities efficiently. | HTML, CSS, JavaScript, json |
+| *NPC Smart Library System* | A library management system designed for Navotas Polytechnic College with a user-friendly interface. | Python, tkinter, json |
 
 ---
 
@@ -37,5 +35,5 @@ Passionate about technology and leadership, I serve as Vice President of the Int
 
 <p align="center">
   <img src="https://navotaspolytechniccollege.edu.ph/wp-content/themes/yootheme/cache/66/Favicon-66de9ae4.webp" alt="Navotas Polytechnic College Logo" width="80" style="margin-right: 25px; vertical-align: middle;" />
-  <img src="https://eldrex.landecs.org/logo/ics-logo.svg" alt="Integrated Computer Society Logo" width="80" style="margin-right: 25px; vertical-align: middle;" />
+  <img src="https://eldrex.neocities.org/logo/ics-logo.svg" alt="Integrated Computer Society Logo" width="80" style="margin-right: 25px; vertical-align: middle;" />
 </p>
